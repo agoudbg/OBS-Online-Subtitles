@@ -1,0 +1,72 @@
+/* 在这里自定义文字的字体、颜色和样式以及图片的位置和大小。
+ * 如果有能力，您还可以修改动画。 */
+
+/* 大标题 */
+#big { 
+		
+	color:#FCE550; 
+	font-size:80px; 
+	font-family:Microsoft YaHei UI; 
+	margin-left:370px; 
+	margin-top:-20px;	
+	height:25px;
+	word-break:keep-all;
+		
+}
+/* 小标题 */
+#small {
+
+	color:white;
+	font-size:40px;
+	font-family:Microsoft YaHei UI;
+	margin-left:370px;
+	margin-top:34px;	
+	font-weight:bold;
+	text-shadow: 2px 2px 2px black;
+	height:49px;
+	word-break:keep-all;
+	
+}
+/* 大标题背景 */
+#title-png {
+
+	position:fixed;
+	z-index:-100;
+	margin-left:350px;
+	top:100px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s; /* Safari */
+
+	
+}
+/* 小标题背景 */
+#little-png {
+
+	position:fixed;
+	z-index:-100;
+	margin-left:350px;
+	top:35px;
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s; /* Safari */
+
+}
+/* 角标 */
+#side {
+
+	position:fixed;
+	z-index:-100;
+	left:173px;
+	top:43px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius:18px;
+	transition:margin-left 0.75s;
+	-webkit-transition:margin-left 0.75s; /* Safari */
+
+}
+/* 标题动画 */
+#title,#little-title {
+	transition:margin-left 1s;
+	-webkit-transition:margin-left 1s; /* Safari */
+
+}
