@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# IDE0047: 删除不必要的括号
+dotnet_diagnostic.IDE0047.severity = none

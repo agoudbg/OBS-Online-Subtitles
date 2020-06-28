@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "乳张包装管理工具", "乳张包装管理工具.vbproj", "{46FC4E77-FB8C-4232-9266-D30561A12FCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3DFA5FF-5623-4D13-92DD-449C01F237D1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FC4E77-FB8C-4232-9266-D30561A12FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FC4E77-FB8C-4232-9266-D30561A12FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FC4E77-FB8C-4232-9266-D30561A12FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FC4E77-FB8C-4232-9266-D30561A12FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1A465E-280D-40EB-BC72-75768B601385}
+	EndGlobalSection
+EndGlobal
